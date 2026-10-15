@@ -1,0 +1,11 @@
+{
+  "target_steps": 500,
+  "max_force": 10.0,
+  "latest_window": 100,
+  "weights": {
+    "success_rate": 0.45,
+    "episode_duration": 0.3,
+    "duration_consistency": 0.15,
+    "force_efficiency": 0.1
+  }
+}
